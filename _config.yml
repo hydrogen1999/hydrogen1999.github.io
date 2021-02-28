@@ -1,7 +1,7 @@
 title: Hyd99
 author:
   name: hydrogen1999
-  email: nguyencongthinh1999@gmail.com
+  email: mail to:nguyencongthinh1999@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -17,7 +17,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: jekyllrb
-    github:  hydrogen1999
+    github:  https://github.com/hydrogen1999
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
