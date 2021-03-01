@@ -3,9 +3,7 @@ author:
   name: Nguyễn Công Thịnh 
   email: nguyencongthinh1999@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Trang web được xây dựng để chia sẻ kinh nghiệm. Nếu bạn nào có chia sẻ thì nhớ ghi nguồn để mọi người cùng biết đến.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,13 +14,13 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
+    twitter: ThinhNguyenCong
     github:  hydrogen1999
     # devto: jekyll
     # dribbble: jekyll
-    facebook: jekyll
+    #facebook: jekyll
     #flickr:   jekyll
-    instagram: jekyll
+    #instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
