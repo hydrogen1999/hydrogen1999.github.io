@@ -4,7 +4,7 @@ author:
   email: nguyencongthinh1999@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Trang web được xây dựng để chia sẻ kinh nghiệm. Nếu bạn nào có chia sẻ thì nhớ ghi nguồn để mọi người cùng biết đến.
-
+  Powered by Jekyll.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
