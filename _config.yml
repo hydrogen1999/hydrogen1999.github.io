@@ -20,9 +20,9 @@ minima:
     github:  hydrogen1999
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
+    facebook: jekyll
+    #flickr:   jekyll
+    instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
