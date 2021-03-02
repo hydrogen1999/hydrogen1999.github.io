@@ -2,4 +2,4 @@
 title: Giới thiệu về Blockchain
 categories: Code  Blockchain
 ---
-![Blockchain](../image/screenshot.png)
+#### Khái niệm cơ bản
