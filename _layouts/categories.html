@@ -4,6 +4,9 @@ layout: page
 
 {% for post in site.categories[page.category] %}
   <article class="post">
+    <hr>
         <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+        {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><i>Đọc thêm</i></a>
   </article>
 {% endfor %}
