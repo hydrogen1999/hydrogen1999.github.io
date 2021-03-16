@@ -8,6 +8,7 @@ category: list
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
+    <hr>
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
@@ -20,6 +21,5 @@ category: list
     </article>
     {% endfor %}
   </div>
-  <hr>
 {% endfor %}
 </div>
