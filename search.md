@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Search"
+title: "Tìm kiếm"
 subtitle: Feeling lost? Look for things in my blog.
 ---
 
