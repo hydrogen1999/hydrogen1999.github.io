@@ -65,5 +65,5 @@ defaults:
     values:
       layout: "post"
       
-permalink: /:categories/:title/
+permalink: /:title
 google_analytics: G-C2FJ4BKV4Y
