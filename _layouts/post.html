@@ -58,6 +58,12 @@ layout: default
     {{ content }}
     {% include advertisements.html %}
     {% include share-bar.html %}
+    {%- include facebook-init.html -%}
+    {% if page.fbcomments %}
+      <hr/>
+      <h4>Comments</h4>
+      <div class="fb-comments" data-href="https://hydrogen1999.github.io/" data-width="" data-numposts="10"></div>
+    {% endif %}
   </div>
 
   {%- if site.disqus.shortname -%}
